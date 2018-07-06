@@ -1118,7 +1118,7 @@ Sys is the sum of the XSys metrics. Sys measures the virtual address space reser
                     <snmp_community/>
                     <snmp_oid/>
                     <key>go.expvar.jsondata</key>
-                    <delay>5s</delay>
+                    <delay>30s</delay>
                     <history>90d</history>
                     <trends>0</trends>
                     <status>0</status>
